@@ -1,6 +1,6 @@
-# FIGHTING-CLIMATE-CHANGE-IS-FREE
+## FIGHTING-CLIMATE-CHANGE-IS-FREE
 
-GREENHOUSE EFFECT- ROOT CAUSE OF GLOBAL WARMING:
+#GREENHOUSE EFFECT- ROOT CAUSE OF GLOBAL WARMING:
 Earth has warmed 1.4 degrees Fahrenheit since 1880 for which skeptics of manmade climate change blame natural causes like Earth’s orbit(due to tilt and orbit change), sun(due to temperature change) and volcanoes(due to CO2 release). 
 To estimate contribution of various factors in temperatures change, we compare natural and manmade factors. Findings from NASA’s Goddard Institute for Space Studies shows that natural factors have negligible effect on climate change whereas manmade factors have direct relation with the trend of global warming. Greenhouse gases is the highest contributor and almost the only reason for this huge difference. Atmospheric CO2 levels are 40% higher than they were in 1750.
 
