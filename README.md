@@ -7,18 +7,23 @@ To estimate contribution of various factors in temperatures change, we compare n
 
 ![ScreenShot](https://user-images.githubusercontent.com/32226479/33513112-2c380a9e-d6f1-11e7-97f8-a3841febbafb.png)
 
-###### GASES CONTRIBUTING TO GREENHOUSE EFFECT:
+##### GASES CONTRIBUTING TO GREENHOUSE EFFECT:
 Carbon dioxide, methane, nitrous oxide and water vapor are the gases contributing to greenhouse effect, out of which CO2 is the most important long-lived forcing of climate change. Humans have increased atmospheric CO2 concentration by more than a third since the Industrial Revolution began making it the highest contributor in greenhouse effect.
 Greenhouse gas emission is caused by various factors, electricity & heat being the largest single source (25% of 2010 global greenhouse gas emissions) caused by burning coal, natural gas and oil.
 
-## WHAT ARE COUNTRIES DOING TO PROTECT ENVIRONMENT?
+## WHAT ARE COUNTRIES DOING TO PROTECT THE ENVIRONMENT?
 More than 200 countries met in Paris in November 2015 for United nations talks to agree for a new climate deal.
 Nations responsible for more than 90% of global emissions have now come up with their targets called INDCs (Indended Nationally Determined Contributions).
 
-###### WHY IS IT IMPORTANT?: 
+###### WHY IS IT IMPORTANT?
 
 According to scientists, if greenhouse gas emissions continue to rise at this rate, we will pass the threshold (i.e. 2C above pre-industrial levels) beyond which global warming becomes catastrophic and irreversible. On current emissions trajectories we are heading for a rise of about 5C. The temperature difference might sound small, but its difference between today’s world and the last ice age was about 5C, so seemingly small changes in temperature can mean big differences for the Earth.
+
 Moreover, countries’ investment in renewable resources have significantly increased since 2004 as shown in our visualization. China($102.9 B), United States($44.1 B), Japan($36.2 B), United Kingdom($22.2 B) and India($10.2 B) being top 5 investors.
+
+#### IS IT ENOUGH FOR DEVELOPED COUNTRIES TO INVEST?
+
+Nations responsible for more than 90% of global emissions have now come up with their targets – known in the UN jargon as Indended Nationally Determined Contributions or INDCs .
 
 **VISUALIZATION 1:**
 
@@ -28,15 +33,15 @@ We chose three countries to show the effect of investment in renewable resources
 
 ## IS IT WORTH INVESTING IN RENEWABLE RESOURCES?
 
-> International Energy Agency finds CO2 emissions flat for third straight year even as global economy grew in 2016
+- International Energy Agency finds CO2 emissions flat for third straight year even as global economy grew in 2016
 
 ![ScreenShot](https://user-images.githubusercontent.com/32226479/33513144-8324b94c-d6f1-11e7-8810-088abd2af977.png)
 
-> Doubling the share of renewables in the global energy mix by 2030 would increase global GDP by up to 1.1% or USD 1.3 trillion
+- Doubling the share of renewables in the global energy mix by 2030 would increase global GDP by up to 1.1% or USD 1.3 trillion
 
-> Doubling the share of renewables also increases direct and indirect employment in the sector to 24.4 million by 2030
+- Doubling the share of renewables also increases direct and indirect employment in the sector to 24.4 million by 2030
 
-> Improvements in human well-being and welfare would go far beyond gains in GDP
+- Improvements in human well-being and welfare would go far beyond gains in GDP
 
 **VISUALIZATION 2:**
 
@@ -52,10 +57,6 @@ The next graph shows the positive effect of renewable resources on economy. The 
 ![ScreenShot](https://user-images.githubusercontent.com/32226479/33520434-a7faad52-d76f-11e7-9b8e-6abf3a909134.png)
 
 The increase in renewable energy positively affects the employment rate. It can be seen that throughout the years the number of jobs are increasing thus benefitting common people along with the Government and the Environment.
-
-### IS IT ENOUGH FOR DEVELOPED COUNTRIES TO INVEST?
-
-
 
 ## TABLEAU LINK: https://public.tableau.com/profile/heena.anil.tarachandani#!/vizhome/FIGHTINGCLIMATECHANGEISFREE/Story1?publish=yes
 
