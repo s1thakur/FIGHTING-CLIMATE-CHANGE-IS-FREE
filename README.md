@@ -15,8 +15,6 @@ Greenhouse gas emission is caused by various factors, electricity & heat being t
 
 More than 200 countries met in Paris in November 2015 for United nations talks to agree for a new climate deal.
 
-Nations responsible for more than 90% of global emissions have now come up with their targets called INDCs (Indended Nationally Determined Contributions).
-
 Moreover, countries’ investment in renewable resources have significantly increased since 2004 as shown in our visualization. China($102.9 B), United States($44.1 B), Japan($36.2 B), United Kingdom($22.2 B) and India($10.2 B) being top 5 investors.
 
 ###### WHY IS IT IMPORTANT?
@@ -27,17 +25,23 @@ According to scientists, if greenhouse gas emissions continue to rise at this ra
 
 ![ScreenShot](https://user-images.githubusercontent.com/32226479/33513124-6595eaea-d6f1-11e7-995a-9f2615943ce8.png)
 
-We chose three countries to show the effect of investment in renewable resources on their GHG emission. It claims that the countries that are investing in reducing the emission of GHG are showing a change in their trend. The investment trend for these countries have shown increasing trend since 2004. On the other hand, it can be seen that the projected axis are either going down or increaisng at a lower rate, which shows decline in emissions. Also, the slope of projected pledge is less as compared to historic emission. On hovering, additional information displays about the projected pledge. If the pledge is taken into account, the emission will be less as compared to the projected current policy, encouraging countries to invest more to save the environment.
+We chose China, USA and India to show the effect of investment in renewable resources on their GHG emission because these are both the top emitters as well as the top investors. The investment trend for these countries have shown increasing trend since 2004. Our visualization claims that the countries that have invested in renewable resources have shown decline in their emission rate. It can be seen that the projected axis are either going down or increaisng at a lower rate. Also, the slope of projected pledge is less as compared to historic emission. On hovering, additional information displays about the projected pledge. If the pledge is taken into account, the emission will be less as compared to the projected current policy, encouraging countries to invest more to save the environment.
 
 #### IS IT ENOUGH FOR DEVELOPED COUNTRIES TO INVEST?
 
-Nations responsible for more than 90% of global emissions have now come up with their targets – known in the UN jargon as Indended Nationally Determined Contributions or INDCs .
+Nations responsible for more than 90% of global emissions have now come up with their targets called INDCs (Indended Nationally Determined Contributions).
 
-## IS IT WORTH INVESTING IN RENEWABLE RESOURCES?
+Poorer countries want the rich world to provide them with financial help that will enable them to invest in clean technology to cut their greenhouse gas emissions and to adapt their infrastructure to the likely damage from climate change.
+Rich countries agreed to supply $30bn of “fast-start” financial assistance to the poor nations, and they said that by 2020, financial flows of at least $100bn a year would be provided
 
-- International Energy Agency finds CO2 emissions flat for third straight year even as global economy grew in 2016
+#### DO WE SEE THE RESULTS?
+
+International Energy Agency finds CO2 emissions flat for third straight year even as global economy grew in 2016.
+Decrease in CO2 emission has direct impact on increasing trend of global economy 
 
 ![ScreenShot](https://user-images.githubusercontent.com/32226479/33513144-8324b94c-d6f1-11e7-8810-088abd2af977.png)
+
+## IS IT WORTH INVESTING IN RENEWABLE RESOURCES?
 
 - Doubling the share of renewables in the global energy mix by 2030 would increase global GDP by up to 1.1% or USD 1.3 trillion
 
@@ -51,14 +55,14 @@ Nations responsible for more than 90% of global emissions have now come up with 
 
 This visualization shows the benefits of using Renewable energy sources. The first graph shows how the electricity cost outweighs the capital cost. Coal has low capital cost but its electricity cost is higher than Solar energy. Although the earlier cost is higher in case of renewable energy, the benefits are for lifetime. The trend shows a dip in case of renewable sources.
 
-The next graph shows the positive effect of renewable resources on economy. The GDP is increasing  for all the countries; few are shown in this visualization. Every country is growing at a different pace and shows a higher rate by 2030. Thus, investing in renewable is a win-win situation for consumers, countries and environment.
+The next graph shows the positive effect of renewable resources on economy. The GDP has seen rise increasing  for all the countries. Every country is growing at a different pace and shows a higher rate by 2030. Thus, investing in renewable is a win-win situation for consumers, countries and environment.
 
 
 **VISUALIZATION 3:**
 
 ![ScreenShot](https://user-images.githubusercontent.com/32226479/33520434-a7faad52-d76f-11e7-9b8e-6abf3a909134.png)
 
-The increase in renewable energy positively affects the employment rate. It can be seen that throughout the years the number of jobs are increasing thus benefitting common people along with the Government and the Environment.
+The increase in renewable energy positively affects the employment rate. It can be seen that throughout the years the number of jobs are increasing thus benefitting people along with government and environment.
 
 ## TABLEAU LINK: https://public.tableau.com/profile/heena.anil.tarachandani#!/vizhome/FIGHTINGCLIMATECHANGEISFREE/Story1?publish=yes
 
