@@ -12,24 +12,26 @@ Carbon dioxide, methane, nitrous oxide and water vapor are the gases contributin
 Greenhouse gas emission is caused by various factors, electricity & heat being the largest single source (25% of 2010 global greenhouse gas emissions) caused by burning coal, natural gas and oil.
 
 ## WHAT ARE COUNTRIES DOING TO PROTECT THE ENVIRONMENT?
+
 More than 200 countries met in Paris in November 2015 for United nations talks to agree for a new climate deal.
+
 Nations responsible for more than 90% of global emissions have now come up with their targets called INDCs (Indended Nationally Determined Contributions).
+
+Moreover, countries’ investment in renewable resources have significantly increased since 2004 as shown in our visualization. China($102.9 B), United States($44.1 B), Japan($36.2 B), United Kingdom($22.2 B) and India($10.2 B) being top 5 investors.
 
 ###### WHY IS IT IMPORTANT?
 
 According to scientists, if greenhouse gas emissions continue to rise at this rate, we will pass the threshold (i.e. 2C above pre-industrial levels) beyond which global warming becomes catastrophic and irreversible. On current emissions trajectories we are heading for a rise of about 5C. The temperature difference might sound small, but its difference between today’s world and the last ice age was about 5C, so seemingly small changes in temperature can mean big differences for the Earth.
 
-Moreover, countries’ investment in renewable resources have significantly increased since 2004 as shown in our visualization. China($102.9 B), United States($44.1 B), Japan($36.2 B), United Kingdom($22.2 B) and India($10.2 B) being top 5 investors.
-
-#### IS IT ENOUGH FOR DEVELOPED COUNTRIES TO INVEST?
-
-Nations responsible for more than 90% of global emissions have now come up with their targets – known in the UN jargon as Indended Nationally Determined Contributions or INDCs .
-
 **VISUALIZATION 1:**
 
 ![ScreenShot](https://user-images.githubusercontent.com/32226479/33513124-6595eaea-d6f1-11e7-995a-9f2615943ce8.png)
 
-We chose three countries to show the effect of investment in renewable resources on their GHG emission. It claims that the countries that are investing in reducing the emission of GHG are showing a change in their trend. The investments are done in 2015 and it can be seen that the projected axis are either going down or getting stable as compared to gradual increase before 2015. On hovering, additional information displays about the projected pledge. If the pledge is taken into account, the emission will be less as compared to the projected current policy. Thus, it is encouraged that the countries should invest more to save the environment and other benefits.
+We chose three countries to show the effect of investment in renewable resources on their GHG emission. It claims that the countries that are investing in reducing the emission of GHG are showing a change in their trend. The investment trend for these countries have shown increasing trend since 2004. On the other hand, it can be seen that the projected axis are either going down or increaisng at a lower rate, which shows decline in emissions. Also, the slope of projected pledge is less as compared to historic emission. On hovering, additional information displays about the projected pledge. If the pledge is taken into account, the emission will be less as compared to the projected current policy, encouraging countries to invest more to save the environment.
+
+#### IS IT ENOUGH FOR DEVELOPED COUNTRIES TO INVEST?
+
+Nations responsible for more than 90% of global emissions have now come up with their targets – known in the UN jargon as Indended Nationally Determined Contributions or INDCs .
 
 ## IS IT WORTH INVESTING IN RENEWABLE RESOURCES?
 
